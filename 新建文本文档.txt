@@ -1,0 +1,4 @@
+安装arttemplate包
+把依赖项放到json文件
+修改app.js
+	
